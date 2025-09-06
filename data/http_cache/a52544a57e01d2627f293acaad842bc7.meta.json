@@ -1,0 +1,22 @@
+{
+  "status_code": 200,
+  "headers": {
+    "server": "nginx",
+    "date": "Sun, 31 Aug 2025 08:01:13 GMT",
+    "content-type": "application/json; charset=UTF-8",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "x-alg-pt": "1",
+    "accept-encoding": "deflate, gzip",
+    "cache-control": "no-store",
+    "access-control-allow-origin": "*",
+    "timing-allow-origin": "*",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+    "content-disposition": "inline; filename=a.txt",
+    "content-encoding": "gzip"
+  },
+  "url": "https://45bwzj1sgc-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(3.35.1)%3B%20Browser%3B%20JS%20Helper%20(3.11.3)&x-algolia-application-id=45BWZJ1SGC&x-algolia-api-key=Zjk5ZmFjMzg2NmQxNTA0NGM5OGNiNWY4MzQ0NDUyNTg0MDZjMzdmMWY1NTU2YzZkZGVmYjg1ZGZjMGJlYjhkN3Jlc3RyaWN0SW5kaWNlcz1ZQ0NvbXBhbnlfcHJvZHVjdGlvbiZ0YWdGaWx0ZXJzPSU1QiUyMnljZGNfcHVibGljJTIyJTVEJmFuYWx5dGljc1RhZ3M9JTVCJTIyeWNkYyUyMiU1RA%3D%3D",
+  "method": "POST",
+  "cached_at": "2025-08-31T17:01:14.896557"
+}

@@ -4,7 +4,7 @@ import os
 os.environ['CONNECTOR_NAME'] = 'ycombinator'
 os.environ['RUN_ID'] = 'local-dev'
 os.environ['ENABLE_HTTP_CACHE'] = 'true'
-os.environ['STORAGE_BACKEND'] = 'local'
+os.environ['CATALOG_TYPE'] = 'local'
 os.environ['DATA_DIR'] = 'data'
 
 # Test fetching just a small batch first

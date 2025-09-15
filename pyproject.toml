@@ -2,4 +2,14 @@
 name = "ycombinator"
 version = "0.1.0"
 requires-python = ">=3.11"
-dependencies = [ "boto3", "duckdb", "httpx", "pyarrow", "pyiceberg", "ratelimit", "requests", "tenacity",]
+dependencies = [
+ "boto3",
+ "duckdb",
+ "httpx",
+ "pyarrow",
+ "pyiceberg",
+ "ratelimit",
+ "requests",
+ "sqlalchemy>=2.0.43",
+ "tenacity",
+]
